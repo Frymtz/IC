@@ -1,0 +1,71 @@
+╔════════════════════════════════════════════╗
+║          Classification Results            ║
+╚════════════════════════════════════════════╝
+ Train File: 1d_easy.csv                         
+ Test File:  1d_easy_test.csv                    
+══════════════════════════════════════════════
+ Accuracy                              0.832 
+ Error                                 0.168 
+ Best K                               25.000 
+ Best Validation Accuracy              0.831 
+══════════════════════════════════════════════
+
+╔════════════════════════════════════════════╗
+║          Classification Results            ║
+╚════════════════════════════════════════════╝
+ Train File: 1d_hard.csv                         
+ Test File:  1d_hard_test.csv                    
+══════════════════════════════════════════════
+ Accuracy                              0.569 
+ Error                                 0.431 
+ Best K                               21.000 
+ Best Validation Accuracy              0.574 
+══════════════════════════════════════════════
+
+╔════════════════════════════════════════════╗
+║          Classification Results            ║
+╚════════════════════════════════════════════╝
+ Train File: 1d_unequal.csv                      
+ Test File:  1d_unequal_test.csv                 
+══════════════════════════════════════════════
+ Accuracy                              0.931 
+ Error                                 0.069 
+ Best K                               28.000 
+ Best Validation Accuracy              0.916 
+══════════════════════════════════════════════
+
+╔════════════════════════════════════════════╗
+║          Classification Results            ║
+╚════════════════════════════════════════════╝
+ Train File: 2d_example.csv                      
+ Test File:  2d_example_test.csv                 
+══════════════════════════════════════════════
+ Accuracy                              0.886 
+ Error                                 0.114 
+ Best K                               17.000 
+ Best Validation Accuracy              0.893 
+══════════════════════════════════════════════
+
+╔════════════════════════════════════════════╗
+║          Classification Results            ║
+╚════════════════════════════════════════════╝
+ Train File: 3d_binary.csv                       
+ Test File:  3d_binary_test.csv                  
+══════════════════════════════════════════════
+ Accuracy                              0.961 
+ Error                                 0.039 
+ Best K                               26.000 
+ Best Validation Accuracy              0.956 
+══════════════════════════════════════════════
+
+╔════════════════════════════════════════════╗
+║          Classification Results            ║
+╚════════════════════════════════════════════╝
+ Train File: 4d_multiclass.csv                   
+ Test File:  4d_multiclass_test.csv              
+══════════════════════════════════════════════
+ Accuracy                              0.904 
+ Error                                 0.096 
+ Best K                               25.000 
+ Best Validation Accuracy              0.911 
+══════════════════════════════════════════════
